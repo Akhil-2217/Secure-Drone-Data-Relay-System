@@ -10,7 +10,7 @@ This project simulates secure offline data transfer between two isolated network
 **Features:**
 
 - AES-based Encryption using Fernet (Cryptography Library)
-- 
+
 - Tkinter GUI Simulation
 
 - Drone Transfer Animation
